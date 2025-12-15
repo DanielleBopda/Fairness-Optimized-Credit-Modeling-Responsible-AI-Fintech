@@ -122,10 +122,10 @@ For more complex models, small threshold adjustments (±0.05) produced **10–20
 
 **Model Stability**  
 Interpretable models exhibited significantly more stable fairness behavior across thresholds.  
-Ensemble models showed approximately **2–3× higher fairness volatility**, increasing monitoring, audit, and remediation costs over time.
+Ensemble models showed approximately **2–3x higher fairness volatility**, increasing monitoring, audit, and remediation costs over time.
 
 **Accuracy–Fairness Trade-off**  
-The analysis demonstrates that a modest reduction in predictive performance (**~3–6%**) yielded a disproportionate improvement in fairness outcomes (**~50–70% reduction in deviation from parity**), representing a **positive risk-adjusted outcome** for financial institutions.
+The analysis demonstrates that a modest reduction in predictive performance (**approximately 3–6%**) yielded a disproportionate improvement in fairness outcomes (**approximately 50–70% reduction in deviation from parity**), representing a **positive risk-adjusted outcome** for financial institutions.
 
 ---
 
