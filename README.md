@@ -280,7 +280,7 @@ These practices directly support **profitable, compliant AI adoption**.
 
 This project demonstrates how credit models must be evaluated **as economic systems**, not just statistical artifacts. It shows the judgment required to balance profit, risk, compliance, and customer impact in real financial environments.
 
-The emphasis is not on maximizing accuracy—but on maximizing **long-term, defensible business value**.
+The emphasis is not on maximizing accuracy but on maximizing **long-term, defensible business value**.
 
 ---
 
